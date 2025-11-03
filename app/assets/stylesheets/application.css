@@ -9,8 +9,3 @@
  * Consider organizing styles into separate files for maintainability.
  */
 
-:where(lexxy-editor) {
-    button, summary {
-        color: #261B23;
-    }
-}
