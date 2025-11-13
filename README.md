@@ -1,24 +1,12 @@
-# README
+# Rails 8 Blog demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails 8 Blog demo built from
+https://www.youtube.com/watch?v=X_Hw9P1iZfQ
 
-Things you may want to cover:
+This repository is used by Renuo during the Ruby On Rails Workshop.
 
-* Ruby version
+Feel free to explore the repository and use it to also copy-paste content during the workshop.
 
-* System dependencies
+https://renuo.ch
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://rubyonrails.org
